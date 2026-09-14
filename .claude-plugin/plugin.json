@@ -1,0 +1,20 @@
+{
+  "name": "writing-report-skill-by-sheng",
+  "version": "1.0.0",
+  "description": "Draft, revise, and polish completed Chinese academic research reports from a user-locked research framework.",
+  "author": {
+    "name": "JiaweiSheng",
+    "url": "https://github.com/JiaweiSheng"
+  },
+  "homepage": "https://github.com/JiaweiSheng/writing-report-skill-by-sheng",
+  "repository": "https://github.com/JiaweiSheng/writing-report-skill-by-sheng",
+  "license": "MIT",
+  "keywords": [
+    "academic-writing",
+    "chinese",
+    "thesis",
+    "postdoc-report",
+    "research-report",
+    "latex"
+  ]
+}

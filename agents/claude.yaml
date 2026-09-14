@@ -1,0 +1,3 @@
+frontmatter:
+  user-invocable: true
+  argument-hint: "[section, chapter, or polish request]"

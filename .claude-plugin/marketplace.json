@@ -1,0 +1,20 @@
+{
+  "name": "writing-report-skill-by-sheng",
+  "owner": {
+    "name": "JiaweiSheng",
+    "url": "https://github.com/JiaweiSheng"
+  },
+  "metadata": {
+    "description": "Chinese research-report writing skill for Cursor, Codex, and Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "writing-report-skill-by-sheng",
+      "source": "./",
+      "description": "Draft, revise, and polish completed Chinese academic research reports from a locked framework.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}

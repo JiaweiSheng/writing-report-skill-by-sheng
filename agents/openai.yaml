@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文学术研究报告写作"
+  short_description: "起草或润色出站报告、学位论文等已完成工作的中文研究报告"
+  default_prompt: "Use $writing-report-skill-by-sheng to draft or polish this Chinese research report. Lock the research framework first; do not invent topics, methods, or numbers."
+
+policy:
+  allow_implicit_invocation: false

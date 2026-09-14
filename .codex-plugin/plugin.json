@@ -1,0 +1,34 @@
+{
+  "name": "writing-report-skill-by-sheng",
+  "version": "1.0.0",
+  "description": "Draft, revise, and polish completed Chinese academic research reports from a user-locked research framework.",
+  "author": {
+    "name": "JiaweiSheng",
+    "url": "https://github.com/JiaweiSheng"
+  },
+  "homepage": "https://github.com/JiaweiSheng/writing-report-skill-by-sheng",
+  "repository": "https://github.com/JiaweiSheng/writing-report-skill-by-sheng",
+  "license": "MIT",
+  "keywords": [
+    "academic-writing",
+    "chinese",
+    "thesis",
+    "postdoc-report",
+    "research-report",
+    "latex"
+  ],
+  "skills": "./",
+  "interface": {
+    "displayName": "中文学术研究报告写作",
+    "shortDescription": "起草或润色出站报告、学位论文等已完成工作的中文研究报告。",
+    "longDescription": "A portable Agent Skill that drafts, revises, and polishes completed Chinese academic research reports. It requires existing results and a user-locked research framework, then dispatches to abstract, introduction, related work, conclusion, technical chapters, or Chinese academic polishing.",
+    "developerName": "JiaweiSheng",
+    "category": "Productivity",
+    "brandColor": "#1D4ED8",
+    "websiteURL": "https://github.com/JiaweiSheng/writing-report-skill-by-sheng",
+    "defaultPrompt": [
+      "Use $writing-report-skill-by-sheng to draft or polish this Chinese research report.",
+      "Lock the research framework first; do not invent topics, methods, or numbers."
+    ]
+  }
+}
